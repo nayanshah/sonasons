@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/sonasons'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
